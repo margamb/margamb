@@ -1,5 +1,7 @@
 # Hola, soy Marga! 🤓👋🏻
 
+![](./images/marga_github_profile.png)
+
 Soy una diseñadora e ilustradora que empezó en esto de la programación tratando de animar mis personajes para un videojuego en 2016. Me quedé enganchada y he estado programando para la web desde entonces. En Septiembre de 2020 entre en el Bootcamp de adalab, para afianzar mis conocimientos, y trabajar en equipo con otras compañeras.
 
 Las tecnologías que he aprendido son CSS, Javascript y React. Actualmente estoy a tope con redux.
