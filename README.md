@@ -16,6 +16,10 @@ Actualmente estoy buscando empleo como frontend developer.
 
 Tambien podeis ver alguno de mis proyectos aqui abajo ⬇
 
+Si queréis ver mi proceso de trabajo he incluido un Readme en español e inglés en este proyecto, donde he hecho desde el diseño hasta el backend (y el front end claro 🙂).
+https://github.com/margamb/calendar-test
+
+
 <!--
 **margamb/margamb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
