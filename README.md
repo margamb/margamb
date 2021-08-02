@@ -8,17 +8,16 @@ Las tecnologías que he aprendido son CSS, Javascript y React. Actualmente estoy
 
 Lo que más me gusta de la programación es lo mágico que es ver como una idea se transforma en un proyecto terminado. Mi superpoder es una personalidad dividida entre diseñadora y programadora, como Dos caras de Batman, aunque uso mis poderes para el bien 🙂
 
-Actualmente estoy buscando empleo como frontend developer.
+**Actualmente estoy buscando empleo como frontend developer.**
+
+Si queréis ver mi proceso de trabajo he incluido un Readme en español e inglés en [este proyecto](https://github.com/margamb/calendar-test
+), donde he hecho desde el diseño hasta el backend (y el frontend claro 🙂).
 
 ## Marga en la web 🌍
 - Tengo una web con mis trabajos https://marga.pro
 - Podéis encontrarme en [twitter](https://twitter.com/margamrt) y [LinkedIn](https://www.linkedin.com/in/margamarben/)
 
 Tambien podeis ver alguno de mis proyectos aqui abajo ⬇
-
-Si queréis ver mi proceso de trabajo he incluido un Readme en español e inglés en este proyecto, donde he hecho desde el diseño hasta el backend (y el front end claro 🙂).
-https://github.com/margamb/calendar-test
-
 
 <!--
 **margamb/margamb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
